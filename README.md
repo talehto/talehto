@@ -1,1 +1,1 @@
-Hi, I’m @talehto My repos contains all kinds of test repos.
+Hi, I’m @talehto My repos contains all kinds of tiny apps.
